@@ -1,9 +1,0 @@
-{
-  "name": "kpm-studio",
-  "version": "1.0.0",
-  "main": "main.cjs",
-  "type": "commonjs",
-  "dependencies": {
-    "bytenode": "^1.7.0"
-  }
-}
