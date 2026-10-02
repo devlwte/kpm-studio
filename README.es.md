@@ -63,7 +63,7 @@ Inspecciona tus aplicaciones instaladas, visualiza metadatos oficiales PE de Win
 ### 4. Guía Técnica Oficial Integrada
 Incluye 10 capítulos interactivos con especificaciones del formato binario, arquitectura criptográfica, funcionamiento del streaming multi-volumen y recomendaciones de compresión:
 
-![Official Docs](docs/images/04_official_docs.png)
+![Official Docs](docs/images/04_official_docs_.png)
 
 ---
 
