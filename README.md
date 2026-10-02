@@ -63,7 +63,7 @@ Inspect installed applications, view native Windows PE metadata, launch programs
 ### 4. Integrated Technical Guide
 Includes 10 interactive chapters covering container specifications, cryptographic architecture, multi-volume streaming mechanics, and compression recommendations:
 
-![Official Docs](docs/images/04_official_docs.png)
+![Official Docs](docs/images/04_official_docs_.png)
 
 ---
 
